@@ -12,4 +12,4 @@ To get in touch, email <nathaniel.curnick@gmail.com>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanielcurnick&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanielcurnick&hide=javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
