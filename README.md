@@ -1,15 +1,17 @@
- ## Hi there 👋
-I'm Nathaniel, a developer from the UK working on a range of applications
+## Hi there 👋
+
+I'm Indigo, a developer from the UK working on a range of applications
 
 ## Projects
-- 🌐 **[Website](https://nathanielcurnick.xyz)**: Personal website for tutorials and blogging
-- 🛠 [**Dev toolbox**](https://nathanielcurnick.xyz/toolbox): A collection of online tools to quickly convert and validate a variety of formats.
-- 📈 [**kalman-filtering-rs**](https://github.com/NathanielCurnick/kalman-filtering-rs): A Rust implmentation of the Kalman filter, with many educational examples
-- 📍 [**geodesic_coordinates_rs**](https://github.com/NathanielCurnick/geodesic_coordinates_rs): A Rust package for navigating on or close to the earth
-- 📂 [**blog-tools**](https://github.com/NathanielCurnick/blog-tools): A Rust crate for auomating the production of blogs from markdown files
+- 🌐 **[Website](https://indigocurnick.xyz)**: Personal website for tutorials and blogging
+- 🧹 [**rust-cleanup**](https://github.com/IndigoCurnick/rust-cleanup): Quickly and easily remove Rust
+build files from your computer
+- 📈 [**kalman-filtering-rs**](https://github.com/IndigoCurnick/kalman-filtering-rs): A Rust implmentation of the Kalman filter, with many educational examples
+- 📍 [**geodesic_coordinates_rs**](https://github.com/IndigoCurnick/geodesic_coordinates_rs): A Rust package for navigating on or close to the earth
+- 📂 [**blog-tools**](https://github.com/IndigoCurnick/blog-tools): A Rust crate for auomating the production of blogs from markdown files
 
-To get in touch, email <nathaniel.curnick@gmail.com>
+To get in touch, email <indigocurnick@gmail.com>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanielcurnick&hide=javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indigocurnick&hide=javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
